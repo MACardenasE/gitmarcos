@@ -1,1 +1,2 @@
 creando archivo desde la terminal
+Usando GitHub desde la pägina web de Git
